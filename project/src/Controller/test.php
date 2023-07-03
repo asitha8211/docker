@@ -1,0 +1,3 @@
+<?php
+
+$asitha = 'abc';
